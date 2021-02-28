@@ -51,10 +51,7 @@
   color: white;
 }
 
-/* .button-si .MuiButton-containedPrimary:hover {
-  background-color: rgba(0, 0, 0, 0.87);
-  color: white;
-} */
+
 
 .button-si button.MuiButtonBase-root.MuiButton-root.MuiButton-contained {
   background-color: rgba(0, 0, 0, 0.87);

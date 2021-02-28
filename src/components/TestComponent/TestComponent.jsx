@@ -6,6 +6,8 @@ import AllCategories from '../AllCategories/AllCategories';
 import BedCard from '../AllCards/BedCard/BedCard';
 import Banner from '../AllCards/Banner/Banner';
 import SingleImage from '../SingleImage/SingleImage';
+import ImageText from '../ImageText/ImageText';
+import MapComponent from '../MapComponent/MapComponent';
 
 export class TestComponent extends Component {
   render() {
@@ -16,6 +18,8 @@ export class TestComponent extends Component {
         <BedCard />
         <Banner />
         <SingleImage />
+        <ImageText />
+        <MapComponent />
       </>
     );
   }
